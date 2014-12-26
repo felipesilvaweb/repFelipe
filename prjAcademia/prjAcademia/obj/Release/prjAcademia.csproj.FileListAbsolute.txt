@@ -1,0 +1,11 @@
+D:\Projetos\academia\prjAcademia\prjAcademia\bin\Release\prjAcademia.exe.config
+D:\Projetos\academia\prjAcademia\prjAcademia\bin\Release\prjAcademia.exe
+D:\Projetos\academia\prjAcademia\prjAcademia\bin\Release\prjAcademia.pdb
+D:\Projetos\academia\prjAcademia\prjAcademia\bin\Release\MySql.Data.Entity.EF5.dll
+D:\Projetos\academia\prjAcademia\prjAcademia\bin\Release\MySql.Data.Entity.EF6.dll
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Release\prjAcademia.csprojResolveAssemblyReference.cache
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Release\prjAcademia.Form1.resources
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Release\prjAcademia.Properties.Resources.resources
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Release\prjAcademia.csproj.GenerateResource.Cache
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Release\prjAcademia.exe
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Release\prjAcademia.pdb

@@ -1,0 +1,14 @@
+D:\Projetos\academia\prjAcademia\prjAcademia\bin\Debug\prjAcademia.exe.config
+D:\Projetos\academia\prjAcademia\prjAcademia\bin\Debug\prjAcademia.exe
+D:\Projetos\academia\prjAcademia\prjAcademia\bin\Debug\prjAcademia.pdb
+D:\Projetos\academia\prjAcademia\prjAcademia\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Debug\prjAcademia.Form1.resources
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Debug\prjAcademia.Properties.Resources.resources
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Debug\prjAcademia.csproj.GenerateResource.Cache
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Debug\prjAcademia.exe
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Debug\prjAcademia.pdb
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Debug\prjAcademia.frmPrincipal.resources
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Debug\prjAcademia.frmModalidadeCliente.resources
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Debug\prjAcademia.frmModalidade.resources
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Debug\prjAcademia.frmPagamento.resources
+D:\Projetos\academia\prjAcademia\prjAcademia\obj\Debug\prjAcademia.csprojResolveAssemblyReference.cache
